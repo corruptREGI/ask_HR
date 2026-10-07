@@ -46,20 +46,20 @@ If you want these for an HR chatbot/project, I can also turn them into 20 user-s
 
 This is my 20 questions for leave and faq and i have attached hr policy and hr faq
 Now i wanna prepare a chatbot which answers all the questions regarding leave and faqs and i am going to use gemini api
-[API key removed]
+\[API key removed]
 and also tell me how to execute it
 
 This project was built with [Lovable](https://lovable.dev).
 
-**Live app**: https://ask-hr-buddy-60.lovable.app
+**Live app**: https://ask-hr-buddy-60-main.vercel.app
 
-## Build with Lovable
+Build with Lovable
 
 Continue developing this project in the [Lovable editor](https://lovable.dev/projects/78ef0cba-c19b-4003-acbe-5a984363fb86).
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+* **Ship faster**: describe what you want to build and Lovable handles the code.
+* **Stay in sync**: every change made in Lovable is committed straight to this repository.
+* **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
